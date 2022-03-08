@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Amor se escribe con Ÿ",
+            "heading": "Mujer se escribe con Ÿ",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Todos los productos para tu pareja o para ti en un sólo lugar.",
+            "text": "Todos los productos para consentirte en un sólo lugar.",
             "text_style": "body"
           }
         },
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/a-couple-embrace-on-a-mountain-side.jpg",
+        "image": "shopify:\/\/shop_images\/two-women-smiling-in-a-blizzard-of-rainbow-paper-confetti.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
