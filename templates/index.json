@@ -103,20 +103,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "womens"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "coach-womens-kacey-satchel-crossbody-1",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "beauty-personal-care"
           }
         }
       },
